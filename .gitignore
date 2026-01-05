@@ -1,0 +1,17 @@
+# node
+node_modules
+.env
+
+# hardhat
+smart-contracts/artifacts
+smart-contracts/cache
+smart-contracts/node_modules
+smart-contracts/.env
+
+# frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+
+# misc
+.DS_Store
